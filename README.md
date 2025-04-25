@@ -99,7 +99,7 @@ The application will create `finance.db` automatically in the working directory.
 
 ## 🖼️ Screenshots
 
-_Add some screenshots here..._
+Screenshots are in the Screenshots Directory
 
 ---
 
