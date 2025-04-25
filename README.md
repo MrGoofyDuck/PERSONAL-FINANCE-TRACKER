@@ -6,7 +6,9 @@ This repository contains a simple personal finance tracking application built in
 
 ## 👥 Our Team
 
-- **Alex Atterson**: 🧠 Logic, GUI and Data Integration
+- **Aralova Dariya**: 🧠 Code and logic.
+- **Sadiev Aiman**: 🎨 Design and GUI.
+- **Almazbekov Eldiiar** 🗄️ Databases and documentation.
 
 ---
 
