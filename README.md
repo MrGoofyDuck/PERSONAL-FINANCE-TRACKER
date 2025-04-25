@@ -97,12 +97,3 @@ The application will create `finance.db` automatically in the working directory.
 
 ---
 
-## 📄 License
-
-MIT License – free to use, modify, and share.
-
-
-3. The app will create a local SQLite database named `finance.db` automatically.
-
----
-
