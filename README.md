@@ -97,12 +97,6 @@ The application will create `finance.db` automatically in the working directory.
 
 ---
 
-## 🖼️ Screenshots
-
-_Add some screenshots here..._
-
----
-
 ## 📄 License
 
 MIT License – free to use, modify, and share.
